@@ -1,1 +1,8 @@
 Functional Requirements
+
+1. Download the ARKA23K dataset and import it to your personal Google Drive 
+2. Mount your personal Google Drive 
+3. fetch from GitHub repo  
+4. install dependencies 
+5. Run training script on the new DAC with the samples from the dataset 
+6. Then you should be able to run the metric-attaining scripts on the trained model 
